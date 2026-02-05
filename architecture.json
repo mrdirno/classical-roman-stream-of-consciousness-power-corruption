@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_stream_of_consciousness_power_corruption",
+  "title": "The Genius of the Locus",
+  "tagline": "In the heart of Rome, power is not seized; it is the quiet art of defining reality.",
+  "target_words": 70000,
+  "actual_words": 71726,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Hydraulics of Influence",
+    "The Solitude of Calculation",
+    "The Erosion of Ritual",
+    "Power as a Blank Reflection"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Marble Was Cold",
+      "words": 2985
+    },
+    {
+      "ch": 2,
+      "title": "The House on the Caelian Hill",
+      "words": 2985
+    },
+    {
+      "ch": 3,
+      "title": "The Smell of the Subura",
+      "words": 2985
+    },
+    {
+      "ch": 4,
+      "title": "Chapter 4",
+      "words": 2985
+    },
+    {
+      "ch": 5,
+      "title": "Chapter 5",
+      "words": 2985
+    },
+    {
+      "ch": 6,
+      "title": "Chapter 6",
+      "words": 2985
+    },
+    {
+      "ch": 7,
+      "title": "Chapter 7",
+      "words": 2985
+    },
+    {
+      "ch": 8,
+      "title": "Chapter 8",
+      "words": 2985
+    },
+    {
+      "ch": 9,
+      "title": "Chapter 9",
+      "words": 2985
+    },
+    {
+      "ch": 10,
+      "title": "Chapter 10",
+      "words": 2985
+    },
+    {
+      "ch": 11,
+      "title": "Chapter 11",
+      "words": 2985
+    },
+    {
+      "ch": 12,
+      "title": "Chapter 12",
+      "words": 2985
+    },
+    {
+      "ch": 13,
+      "title": "Chapter 13",
+      "words": 2985
+    },
+    {
+      "ch": 14,
+      "title": "Chapter 14",
+      "words": 2985
+    },
+    {
+      "ch": 15,
+      "title": "Chapter 15",
+      "words": 2985
+    },
+    {
+      "ch": 16,
+      "title": "Chapter 16",
+      "words": 2985
+    },
+    {
+      "ch": 17,
+      "title": "Chapter 17",
+      "words": 2985
+    },
+    {
+      "ch": 18,
+      "title": "Chapter 18",
+      "words": 2985
+    },
+    {
+      "ch": 19,
+      "title": "Chapter 19",
+      "words": 2985
+    },
+    {
+      "ch": 20,
+      "title": "Chapter 20",
+      "words": 2985
+    },
+    {
+      "ch": 21,
+      "title": "Chapter 21",
+      "words": 2985
+    },
+    {
+      "ch": 22,
+      "title": "Chapter 22",
+      "words": 2985
+    },
+    {
+      "ch": 23,
+      "title": "Chapter 23",
+      "words": 2985
+    },
+    {
+      "ch": 24,
+      "title": "Chapter 24",
+      "words": 2985
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene from the perspective of the 'grey shadow' slave in Chapter 1, observing the morning ritual of power.",
+      "Create a private letter from Senator Rufus to his daughter, explaining his vote on the Moesian legion, revealing the pressure he feels.",
+      "Draft the report from the urban prefect about the 'convenient' Subura fire, detailing what was found and what was quietly omitted.",
+      "Compose the internal monologue of Tiberius Drusus Caesar during the Senate session, revealing what lies behind his 'winter sky' eyes."
+    ],
+    "technical": [
+      "Build an interactive 'Hydraulics of Influence' network map, visualizing the characters as nodes of desire (wealth, security, legacy) and the transactions of power between them.",
+      "Create an AI model that generates 'Senatorial gossip'—short, detached sentences floating in the air of the *palatium*—based on seed themes of scandal, ambition, and fear."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Marcus Aurelius",
+      "James Joyce",
+      "Niccolò Machiavelli",
+      "Tacitus"
+    ]
+  },
+  "cover_prompt": "A solitary Roman patrician in a pristine white toga stands perfectly still, his back to the viewer, gazing into a vast, dark pool of water that perfectly reflects the distant, hazy silhouette of the Palatine Hill, [Detailed Scene & Context: within a minimalist, cavernous Roman *nymphaeum* where water drips from a single, cracked marble spout into the silent pool, the only sound in the immense space, with geometric shadows cast from unseen high windows], [Artistic Style & Medium: in the atmospheric and psychologically charged style of Giorgio de Chirico, rendered with the textural precision of a classical oil painting and the surreal clarity of metaphysical art], [Composition & Camera: book cover framing, a centered and symmetrical composition viewed from a low, dramatic angle that elongates the figure and emphasizes the empty architectural space, creating a sense of profound isolation], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single sharp beam of cool, white daylight slicing across the marble floor and the figure's shoulder, leaving the face in shadow, against a palette of stark imperial whites, muted ochre, and profound architectural blacks, with the only color being the faint, corrupted green of tarnished bronze], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
