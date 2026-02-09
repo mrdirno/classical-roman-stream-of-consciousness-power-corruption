@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The marble was cold.
@@ -98,6 +100,8 @@ Marcellus looked down at his hand, resting on the sun-warmed travertine balustra
 
 He walked down the steps, into the noise and the smell and the chaos. The white toga was a mark of purity, of civic virtue. On him, it felt like a shroud, perfectly fitted, and he was the cold thing at its heart, learning the contours of its final, absolute silence.
 
+# Chapter 2
+
 ## CHAPTER 2
 
 The house on the Caelian Hill did not proclaim its wealth; it guarded it, like a secret. The façade was plain, unadorned tufa, the windows small and high. The door, of seasoned oak banded with iron, was a statement of negation. *Nothing to see here. Move along.* Only the quality of the stone, the perfect, tight joints between the blocks, whispered of the fortune that lay within. Marcellus’s fortune. His grandfather’s fortune, earned in the spice trade with the East, transmuted by his father into land, and now, by him, into this: influence, a substance more volatile than pepper, more permanent than soil.
@@ -176,6 +180,8 @@ Alone again, Marcellus looked at the white rose. He thought of Valeria’s mothe
 Everything was a system. A body. The state was a body. It had its fevers, its thirsts, its clogged veins and weak limbs. To heal it was to control it. To control it was to own it. The marble cold was inside him now, a core of perfect, still calculus, and around it, the warm, sick, thirsty, desperate flesh of the world pulsed and throbbed, waiting for his direction, for his remedy, for his water.
 
 He did not feel corrupt. He felt necessary. The most dangerous thought of all.
+
+# Chapter 3
 
 ## CHAPTER 3
 
