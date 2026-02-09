@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The marble was cold.
+Caesar’s sandals crunch the marble, each step a proclamation. Purple silk whispers against his thigh, a sound like conspirators. The thought arrives, unbidden: this corridor, this power, this *I*—all are verbs, not nouns. A thing performed. The gilded ceiling watches, a silent senate of one. He breathes. The air tastes of incense and iron.
+
 
 Not the clean, dry cold of a mountain stream, but the deep, leaching cold of a tomb. It seeped through the thick leather soles of his *caligae*, up through the bones of his feet, into the marrow. It was the cold of permanence, of a thing that had been quarried from the earth’s belly and would outlast him, his name, his memory. Gaius Valerius Marcellus stood on it, and the cold was the first truth of the morning.
 
